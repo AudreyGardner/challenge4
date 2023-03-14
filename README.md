@@ -18,7 +18,7 @@ At the end of the game, you will be asked to enter your initials to save your sc
 If you would like to contribute to this project, feel free to open a pull request with your changes.
 
 # Credits
-This project was created by Audrey Gardner. If you have any questions or feedback, please contact me at [Your Email].
+This project was created by Audrey Gardner. If you have any questions or feedback, please contact me at Audrey_C_Gardner@outlook.com.
 
 # License
 This project is licensed under the MIT License.
